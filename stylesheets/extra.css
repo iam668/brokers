@@ -1,0 +1,6 @@
+/* docs/stylesheets/extra.css */
+
+/* 隐藏搜索按钮 */
+.md-header-nav__button.md-icon.md-search {
+    display: none !important;
+}
