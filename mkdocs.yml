@@ -1,1 +1,23 @@
-site_name: 低佣券商i668
+site_name: 668专业可信赖
+
+nav:
+  - 银河证券: 'yinhedg.md'
+  - 华宝证券: 'huabao.md'
+  - 海通证券: 'haitong.md'
+  - 华西证券: 'huaxi.md'
+  - 国金证券: 'guojin.md'
+  - 华泰证券: 'huatai.md'
+
+site_description: 万一免五、券商开户、低佣券商开户、开户
+
+site_author: "668"
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - js/baidu_analytics.js
+
+theme:
+  name: mkdocs
+  custom_dir: custom_theme/

@@ -1,0 +1,6 @@
+/* docs/stylesheets/extra.css */
+
+/* 隐藏搜索按钮 */
+.nav.navbar-nav.ms-md-auto {
+    display: none !important;
+}
