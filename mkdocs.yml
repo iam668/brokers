@@ -1,9 +1,8 @@
 site_name: 668专业可信赖
 
 nav:
-  - 银河证券: 'yinhedg.md'
   - 华宝证券: 'huabao.md'
-  - 海通证券: 'haitong.md'
+  - 光大证券: 'guangda.md'
   - 华西证券: 'huaxi.md'
   - 国金证券: 'guojin.md'
   - 华泰证券: 'huatai.md'
