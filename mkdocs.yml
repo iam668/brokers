@@ -1,11 +1,13 @@
 site_name: 668专业可信赖
 
 nav:
-  - 华宝证券: 'huabao.md'
-  - 光大证券: 'guangda.md'
-  - 华西证券: 'huaxi.md'
-  - 国金证券: 'guojin.md'
-  - 华泰证券: 'huatai.md'
+  - YH证券: 'yhsg.md'
+  - ZS证券: 'zs.md'
+  - CJ证券: 'cj.md'
+  - YB证券: 'hb.md'
+  - HX证券: 'hx.md'
+  - GJ证券: 'gj.md'
+  - HT证券: 'huatai.md'
 
 site_description: 万一免五、券商开户、低佣券商开户、开户
 
