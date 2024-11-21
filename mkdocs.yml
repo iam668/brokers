@@ -1,11 +1,9 @@
 site_name: 668专业可信赖
 
 nav:
-  - YH证券: 'yh.md'
   - ZS证券: 'zs.md'
-  - YB证券: 'hb.md'
   - HX证券: 'hx.md'
-  - GJ证券: 'gj.md'
+  - HB证券: 'hb.md'
   - HT证券: 'huatai.md'
   - 信用卡: 
     - 中信银行: 'xyk/zx.md'
@@ -15,6 +13,7 @@ nav:
     - 浦发银行: 'xyk/pf.md'
     - 平安银行: 'xyk/pa.md'
     - 广发银行: 'xyk/gf.md'
+    - 富邦华一银行: 'xyk/fbh.md'
     - 其他银行: 'xyk/qt.md'
 
 site_description: 万一免五、券商开户、低佣券商开户、开户

@@ -7,7 +7,7 @@
 
 ## 申请链接
 
-[点此专属链接申请才有返现](https://ecentre.spdbccc.com.cn/card/indexActivity.htm?changeSts0=&data=A2105072211585298315)
+浦发找 668 要开卡链接
 
 ## 报单微信
 
