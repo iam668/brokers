@@ -2,7 +2,7 @@
 
 ## 申请链接
 
-[点此专属链接申请才有返现](https://apply.xbme.cn/next/middle?id=2277&invite_code=zxXKDz&parent_id=2275&poster_id=2177&t=1730891676&type=2&v=v1&sign=90db3b9315&utm_source=url)
+[点此专属链接申请才有返现](https://b.xbkeji.vip/index.php/Wap/CreditCard/apply.html?&bank_id=208&user_code=tcxrn7c2&show=1)
 
 ## 报单微信
 
@@ -15,7 +15,5 @@
 **平安首刷金额需要大于 30 元**
 
 **需要在申请日起的 30 天内完成首刷，超期无返现。**
-
-切记：返现没拿到前，不要扫其他人的码办浦发其他卡。不要让卡员上门，卡员上门激活的无返现。
 
 申请一周内必须报单，超期不报单的根据名额情况返现，若没有名额了无法返现。
