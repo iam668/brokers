@@ -1,7 +1,8 @@
 site_name: 668专业可信赖
 
 nav:
-  - ZS证券: 'zs.md'
+  - HT证券: 'ht.md'
+  - CJ证券: 'cj.md'
   - HX证券: 'hx.md'
   - HB证券: 'hb.md'
   - HT证券: 'huatai.md'

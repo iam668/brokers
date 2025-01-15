@@ -3,7 +3,7 @@
 
 ## 申请链接
 
-[点此专属链接申请才有返现](https://apply.xbme.cn/next/middle?id=1756&invite_code=zxXKDz&parent_id=1368&poster_id=1650&t=1730891860&type=2&v=v1&sign=97048cde5e&utm_source=url)
+[点此专属链接申请才有返现](https://apply.xbme.cn/next/middle?id=1756&invite_code=zxXKDz&parent_id=1368&poster_id=1650&t=1736915467&type=2&v=v1&sign=b8f504392b&utm_source=url)
 
 ## 报单微信
 
